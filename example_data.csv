@@ -1,0 +1,16 @@
+id,date,category,product,quantity,price,revenue
+1,2023-01-15,Electronics,Laptop,2,1200,2400
+2,2023-01-20,Electronics,Smartphone,5,800,4000
+3,2023-01-25,Clothing,T-shirt,10,25,250
+4,2023-02-05,Clothing,Jeans,3,60,180
+5,2023-02-10,Electronics,Tablet,4,400,1600
+6,2023-02-15,Home,Chair,2,150,300
+7,2023-02-20,Home,Table,1,350,350
+8,2023-03-01,Electronics,Headphones,8,75,600
+9,2023-03-10,Clothing,Dress,3,90,270
+10,2023-03-15,Home,Lamp,5,45,225
+11,2023-03-20,Electronics,TV,2,1000,2000
+12,2023-03-25,Home,Sofa,1,800,800
+13,2023-04-01,Clothing,Shoes,4,120,480
+14,2023-04-10,Electronics,Printer,1,250,250
+15,2023-04-15,Home,Bookshelf,2,200,400
